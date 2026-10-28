@@ -1,4 +1,4 @@
-# Lab-4
+# Lab4
 cloning the repository
 Student Information
 Name:Aryan 
